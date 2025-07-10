@@ -8,3 +8,4 @@ aiosmtplib
 email-validator
 pydantic
 cloudinary
+python-multipart
